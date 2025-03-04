@@ -19,6 +19,8 @@ red LED when you say Saturday, white LED when you say sunday.
 turn ON all LED when you say weekend, 
 turn OFF all LED when you say OFF or Turn OFF.
 
+Youtube link that shows how this model works: https://youtube.com/shorts/uZ68yVKW_Fs?si=YKhuhn79XZJPVwuu
+
 Version Used
 VSCODE python 3.12
 latest Arduino IDE 2.3.4 
